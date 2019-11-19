@@ -1,3 +1,11 @@
 {
-  "users": []
+  "users": [
+    {
+      "email": "rolando.adriano@boom.camp",
+      "userName": "dev-koji",
+      "firstName": "Koji",
+      "lastName": "Adriano",
+      "passWord": "12345"
+    }
+  ]
 }
